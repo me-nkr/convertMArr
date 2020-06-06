@@ -124,12 +124,3 @@
     }
     
   }
-  
-  
-  $data = ["AND",["OR",["AND","A=B","C=D"],["AND","E=F","G=H"]],"Y!=X",["OR",["AND",["NOT","I=J"],["NOT","K=L"]],["M=N"]]] ;
-  //$data = ["OR",["AND","A=B","C=D"],["NOT", "e=f"]] ;
-  
- //var_dump(convertMArr($data)) ;
- 
- $obj = new ConvertMarr ;
- echo $obj->convertMArr($data) ;
