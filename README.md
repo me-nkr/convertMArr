@@ -1,5 +1,7 @@
 # convertMArr
- **convertMArr()** is a method used to convert a multidimentional array into string. The string will be in a specifies format.
+ **convertMArr()** is a method used to convert a multidimentional array into string. The string will be in the specified format.
+ 
+ > You can use this to convert spreadsheet syntax to SQL syntax
  
 ## useage 
 * instantiate convertMArr class
